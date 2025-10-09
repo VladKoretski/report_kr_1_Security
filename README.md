@@ -17,4 +17,5 @@
 - [x] наличие инфы о главном враче
 - [ ] наличие лицензии
 
-<span style="font-family:Times New Roman;">This is a small font size.</span>
+<span style="font-family: Arial, sans-serif;">Текст Arial</span>. 
+<span style="font-family: Times New Roman, sans-serif;">Текст Times New Roman</span>
