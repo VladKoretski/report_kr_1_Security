@@ -31,8 +31,8 @@ scriptleturl v.20200525
 shellbags v.20200428
 (USRCLASS.DAT) Shell/BagMRU traversal in Win7+ USRCLASS.DAT hives
 
-MRU Time             |Modified             | Accessed             | Created              | Zip_Subfolder        | MFT File Ref |Resource
-------------         |------------         | ------------         | ------------         | ------------         | ------------ |------------
+|MRU Time             |Modified             | Accessed             | Created              | Zip_Subfolder        | MFT File Ref |Resource|
+|------------         |------------         | ------------         | ------------         | ------------         | ------------ |------------|
                      |                     |                      |                      |                      |              |Control Panel [Desktop\0\]
 2019-03-10 06:45:33  |                     |                      |                      |                      |              |Control Panel\User Accounts [Desktop\0\0\]
 2019-03-09 14:20:38  |                     |                      |                      |                      |              |Control Panel\User Accounts\CLSID_User Accounts [Desktop\0\0\0\]
